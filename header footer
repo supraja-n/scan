@@ -12,7 +12,7 @@ background-color:yellow;
 height:100px;
 background-color:grey;
 color:white;
-border:1px solid blue;
+border:1px solid green;
 position:absolute;
 bottom:20px;
 width:100%;
