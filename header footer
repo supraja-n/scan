@@ -1,0 +1,54 @@
+<!doctype html>
+<html>
+<head>
+<style>
+#header{
+height:100px;
+color:red;
+border:1px solid blue;
+background-color:pink;
+}
+#footer{
+height:100px;
+background-color:grey;
+color:white;
+border:1px solid blue;
+position:absolute;
+bottom:20px;
+width:100%;
+}
+li{
+list-style:none;
+float:left;
+padding:22px;
+}
+id{
+border:2px solid blue;
+}
+
+</style>
+</head>
+<body>
+<div id="id">
+<div id="header">
+<ol>
+<li>Home</li>
+<li>Mobiles</li>
+<li>Gallery</li>
+<li>About</li>
+</ol>
+</div>
+
+<div id="footer">
+<ol>
+<li>Contact</li>
+<li>About</li>
+<li>Careers</li>
+<li>Contact</li>
+</oll>
+</div>
+<button style="position:absolute;middle:0px;spacing:5px;color:blue;padding:30px">Submit</button>
+</div>
+</body>
+</html>
+
